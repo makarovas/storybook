@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^8.5.3",
+    "@storybook/addon-interactions": "^8.5.3",
+    "@storybook/addon-links": "^8.5.3",
+    "@storybook/addon-styling": "^2.0.0",
+    "@storybook/blocks": "^8.5.3",
+    "@storybook/cli": "^8.5.3",
+    "@storybook/nextjs": "^8.5.3",
+    "@storybook/react": "^8.5.3",
+    "@storybook/testing-library": "^0.2.2",
+    "@types/react": "^18.2.67",
+    "@types/react-dom": "^18.2.22",
+    "storybook": "^8.5.3"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "next": "^14.2.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^3.0.1"
+  },
+  "license": "MIT"
+}
